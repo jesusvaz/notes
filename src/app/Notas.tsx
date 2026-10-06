@@ -103,7 +103,7 @@ export default function Notas() {
       <div className="mx-auto max-w-2xl">
 
         <h1 className="mb-8 text-center text-3xl font-bold">
-          Mis Notas de Versículos
+          Mis Notas de estudio
         </h1>
 
         {/* Formulario */}
